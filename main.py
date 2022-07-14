@@ -1,4 +1,6 @@
 
+folder_name = "et_guideline_rank"
+
 username = input("\n\t Roblox username: ")
 rank = input("\t USME rank: ")
 print(f"Creating the ET guideline for {username}....")
@@ -111,7 +113,7 @@ To gain access to more events, please join the USAF server if you are able to, s
 Now, is there any questions that you would like me to answer?
 """
 
-folder_name = "et_guideline_rank"
+
 
 f = open(f"{folder_name}/et_guideline_rank={rank}.txt", "w")
 f.write(text)
