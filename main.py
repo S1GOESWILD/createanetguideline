@@ -90,9 +90,9 @@ Roleplaying: *punches*, *kicks*, *dies*, etc.
 
 4) No murder/attempted murder/mass murder.
 
-I will now explain Officers’ Ascension Course.
+I will now explain Officers Ascension Course.
 
-To progress past the rank of SGM and to become a commissioned Officer, you must apply for OAC, or Officers’ Ascension Course. 
+To progress past the rank of SGM and to become a commissioned Officer, you must apply for OAC, or Officers Ascension Course. 
 To join, you must have a disc account and pass the application,
 which is posted in the USAF server when open. When accepted into OAC, you will receive the rank of Warrant Officer.
 After, you will be able to complete requirements to progress throughout the ranks.
