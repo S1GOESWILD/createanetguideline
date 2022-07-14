@@ -111,6 +111,8 @@ To gain access to more events, please join the USAF server if you are able to, s
 Now, is there any questions that you would like me to answer?
 """
 
-f = open(f"generated_files/et_guideline_rank={rank}.txt", "w")
+folder_name = "et_guideline_rank"
+
+f = open(f"{folder_name}/et_guideline_rank={rank}.txt", "w")
 f.write(text)
 f.close()
