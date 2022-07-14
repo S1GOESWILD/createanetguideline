@@ -1,5 +1,5 @@
 
-folder_name = "et_guideline_rank"
+folder_name = "generated_files"
 
 username = input("\n\t Roblox username: ")
 rank = input("\t USME rank: ")
