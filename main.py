@@ -19,6 +19,8 @@ To speak, you must simply yell out "PTS" or "Permission to speak, {rank}?" and t
 S-Phase, silent phase. This will not be necessary in the Basic Traning, but all tranees will keep complete silence while in S-Phase.
 You may only use "E-PTS" or "EMERGENCY, Permission to speak, {rank}" Usually it is because they have to go AFK, or they have to leave, or there is a shooter, ect.
 
+IS THAT UNDERSTOOD?
+
 T-PHASE IS NOW ACTIVE, MAKE SURE TO USE PTS TO SPEAK.
 
 
