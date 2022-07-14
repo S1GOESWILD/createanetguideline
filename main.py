@@ -3,7 +3,7 @@ folder_name = "generated_files"
 
 username = input("\n\t Roblox username: ")
 rank = input("\t USME rank: ")
-print(f"Creating the ET guideline for {username}....")
+print(f"\n\tCreating the ET guideline for {username}....")
 
 text = f"""
 # credits to whybarana for the first version of this guideline - code made by S1 
