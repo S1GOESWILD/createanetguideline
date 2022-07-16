@@ -6,4 +6,4 @@ Code made by S1
 1. Open the "main.py" file.
 2. Enter your username i.e BarbDemand
 3. Enter your USME rank i.e DDI
-4. Enter your folder name in "folder_name" [line number 2] i.e "generated_files"
+4. Change the name of the "folder_name" var [line number 2] to the folder that you want the files to be generated in i.e "generated_files"
