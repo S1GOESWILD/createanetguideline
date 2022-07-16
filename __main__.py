@@ -31,7 +31,7 @@ HALT- You will stop.
 STS! - You will form a line, shoulder-to-shouler.
 IS THAT UNDERSTOOD?
 
-Hell pits:
+* Hell pits: *
 
 WELCOME TO HELL PITS.
 I WILL NOW GO OVER SOME SIMPLE RULES
@@ -39,9 +39,9 @@ I WILL NOW GO OVER SOME SIMPLE RULES
 2) NO WHINING. 
 60 SECONDS FOR THE SMALL PIT.
 IS THAT UNDERSTOOD?
-START ON MY GO.
+START ON MY SHOT.
 
-O-Obby:
+* O-Obby: *
 
 WELCOME TO O-OBBY.
 I WILL NOW GO OVER SOME SIMPLE RULES
@@ -50,9 +50,9 @@ I WILL NOW GO OVER SOME SIMPLE RULES
 3) NO WHINING.
 90 SECONDS TO DO THE WHOLE OBBY
 IS THAT UNDERSTOOD?
-START ON MY GO.
+START ON MY SHOT.
 
-Towers:
+* Towers: *
 
 WELCOME TO TOWERS.
 I WILL NOW GO OVER SOME SIMPLE RULES
@@ -62,9 +62,9 @@ I WILL NOW GO OVER SOME SIMPLE RULES
 4) START FROM THE SMALLEST TOWER.
 120 SECONDS TO DO ALL 3
 IS THAT UNDERSTOOD?
-START ON MY GO.
+START ON MY SHOT.
 
-U-Obby:
+* U-Obby: *
 
 WELCOME TO U-OBBY.
 I WILL NOW GO OVER SOME SIMPLE RULES
@@ -73,7 +73,7 @@ I WILL NOW GO OVER SOME SIMPLE RULES
 3) NO WHINING.
 120 SECONDS TO DO IT ALL
 IS THAT UNDERSTOOD?
-START ON MY GO.
+START ON MY SHOT.
 
 Welcome to classroom!
 
@@ -93,7 +93,7 @@ Roleplaying: *punches*, *kicks*, *dies*, etc.
 I will now explain Officers Ascension Course.
 
 To progress past the rank of SGM and to become a commissioned Officer, you must apply for OAC, or Officers Ascension Course. 
-To join, you must have a disc account and pass the application,
+To join, you must have a dizzy account and pass the application,
 which is posted in the USAF server when open. When accepted into OAC, you will receive the rank of Warrant Officer.
 After, you will be able to complete requirements to progress throughout the ranks.
  It is recommended you join a division to be able to progress through the ranks past SGM because it will make the process easier and is required for higher ranks.
